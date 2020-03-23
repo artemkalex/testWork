@@ -21,7 +21,7 @@ public class Test {
             java = stringRegex.replaceAll("[^(){}\\[\\]]", "");
             System.out.println(getValid(java));
 
-            System.out.println("Enter 'exit' to close the program\nor enter a new line: ");
+            System.out.println("Enter 'exit' to close the program\or enter a new line: ");
 
         }
     }
